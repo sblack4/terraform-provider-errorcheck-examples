@@ -3,7 +3,7 @@ terraform {
   required_providers {
     errorcheck = {
       source = "rhythmictech/errorcheck"
-      version = "2.0.4-rc3"
+      version = "2.0.3"
     }
   }
 }
